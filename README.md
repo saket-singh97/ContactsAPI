@@ -69,6 +69,7 @@ The Contacts Management API is designed to perform CRUD operations on contact re
 2. Set up the database connection string in `appsettings.json`.
 3. Run database migrations using Entity Framework Core to create tables.
 4. Launch the API using Visual Studio or CLI.
+5. Also run the command dotnet restore.
 
 ### Usage
 - Use Swagger or tools like Postman to interact with the API.
