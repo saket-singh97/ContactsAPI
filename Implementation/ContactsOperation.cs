@@ -28,7 +28,7 @@ namespace ContactsAPI.Implementation;
 
         Contacts IContactsOperations.Find(string key)
         {
-            throw new NotImplementedException();
+            return this.contactsDbContext.contacts.FirstOrDefault(c => c.ID == Convert.ToInt32(key));
         }
 
         List<Contacts> IContactsOperations.GetAll()
@@ -39,11 +39,18 @@ namespace ContactsAPI.Implementation;
 
         int IContactsOperations.Remove(string Id)
         {
-            throw new NotImplementedException();
+            var contact = this.contactsDbContext.contacts.FirstOrDefault(c => c.ID == Convert.ToInt32(Id));
+            if (contact != null)
+            {
+                this.contactsDbContext.contacts.Remove(contact);
+                return this.contactsDbContext.SaveChanges();
+                }
+                return 0;
         }
 
         int IContactsOperations.Update(Contacts item)
         {
-            throw new NotImplementedException();
+             this.contactsDbContext.Update(item);  // Update the contact in the DbContext
+             return this.contactsDbContext.SaveChanges();  // Save changes to the database
         }
     }

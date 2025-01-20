@@ -1,4 +1,10 @@
 {
     "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin/Release/net8.0/publish"
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "cSpell.words": [
+        "buildtransitive",
+        "contentfiles",
+        "entityframeworkcore",
+        "Swashbuckle"
+    ]
 }

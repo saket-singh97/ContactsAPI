@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\",
+  "WorkspaceRootPath": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\starting of webdev\\advancecasestudy\\contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\starting of webdev\\advancecasestudy\\contactsapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\starting of webdev\\advancecasestudy\\contactsapi\\models\\fluentmodelvalidation\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:models\\fluentmodelvalidation\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Models\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\starting of webdev\\advancecasestudy\\contactsapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Models\\FluentModelValidation\\Validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\FluentModelValidation\\Validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\starting of webdev\\advancecasestudy\\contactsapi\\pattern\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:pattern\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Pattern\\ContactMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pattern\\ContactMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
-              "ToolTip": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Program.cs",
+              "DocumentMoniker": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Program.cs",
+              "ToolTip": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Models\\Contact.cs",
+              "DocumentMoniker": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Models\\Contact.cs",
-              "ToolTip": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Models\\Contact.cs",
+              "ToolTip": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Models\\Contact.cs",
               "RelativeToolTip": "Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Validator.cs",
-              "DocumentMoniker": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Models\\FluentModelValidation\\Validator.cs",
+              "DocumentMoniker": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Models\\FluentModelValidation\\Validator.cs",
               "RelativeDocumentMoniker": "Models\\FluentModelValidation\\Validator.cs",
-              "ToolTip": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Models\\FluentModelValidation\\Validator.cs",
+              "ToolTip": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Models\\FluentModelValidation\\Validator.cs",
               "RelativeToolTip": "Models\\FluentModelValidation\\Validator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ContactMapper.cs",
-              "DocumentMoniker": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Pattern\\ContactMapper.cs",
+              "DocumentMoniker": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Pattern\\ContactMapper.cs",
               "RelativeDocumentMoniker": "Pattern\\ContactMapper.cs",
-              "ToolTip": "C:\\starting of webdev\\AdvanceCaseStudy\\ContactsAPI\\Pattern\\ContactMapper.cs",
+              "ToolTip": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Pattern\\ContactMapper.cs",
               "RelativeToolTip": "Pattern\\ContactMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
