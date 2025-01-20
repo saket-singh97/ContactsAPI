@@ -28,10 +28,6 @@ namespace ContactsAPI.Controllers;
 
 
 
-
-
-
-
         // public ContactController(IContactsOperations _contactsOperations)   //DI for ContactOperation  //DIP(dependency inversion  Principal)(low level is contact operation)
         //{
         //    this.contactsOperations = _contactsOperations; 
@@ -46,8 +42,6 @@ namespace ContactsAPI.Controllers;
 
 
 
-
-        
         [HttpPost("CreateContacts")]
         public IActionResult CreateContacts([FromBody] Contacts contacts)      //we should not pass actual model known as Entity known as Controller
         {
@@ -58,6 +52,47 @@ namespace ContactsAPI.Controllers;
                 return BadRequest(result.Errors);
             }
             return Ok(this.contactsOperations.Add(contacts));
+        }
+
+
+
+
+        [HttpPut("UpdateContacts")]
+        public IActionResult UpdateContacts([FromBody] Contacts contacts)
+        {
+            var result = _validator.Validate(contacts);
+            if (!result.IsValid)
+            {
+                return BadRequest(result.Errors);
+            }
+                return Ok(this.contactsOperations.Update(contacts));
+        }
+
+
+
+
+
+        [HttpDelete("DeleteContact/{id}")]
+        public IActionResult Remove(int id)
+        {
+            // Find the contact by id
+            var existingContact = this.contactsOperations.Find(id.ToString());
+            if (existingContact == null)
+            {
+                return NotFound("Contact not found.");
+            }
+
+            // Remove the contact from the database
+            var rowsAffected = this.contactsOperations.Remove(id.ToString());
+            
+            if (rowsAffected > 0)
+            {
+                return Ok("Contact deleted successfully.");
+            }
+            else
+            {
+                return StatusCode(500, "An error occurred while deleting the contact.");
+            }
         }
 
     }

@@ -20,6 +20,8 @@ The Contacts Management API is designed to perform CRUD operations on contact re
    - **ContactController**: Handles HTTP requests and responses for managing contacts, including methods for:
      - **GetContacts**: Fetches all contacts.
      - **CreateContacts**: Creates a new contact with model validation.
+     - **UpdateContact**: Updates an existing contact.
+     - **DeleteContact**: Deletes a contact by ID.
    - **Features**: Uses FluentValidation for model validation and integrates with Swagger for API documentation.
 
 ### 2. **Database**
@@ -51,6 +53,10 @@ The Contacts Management API is designed to perform CRUD operations on contact re
 ## Key Features
 
 - **CRUD Operations**: Create, retrieve, update, and delete contacts.
+  - **CreateContact**: Adds a new contact.
+  - **GetContacts**: Fetches all contacts.
+  - **UpdateContact**: Updates the contact details.
+  - **DeleteContact**: Removes a contact by ID.
 - **Model Validation**: Ensures data integrity with validation rules on fields like `FirstName`, `LastName`, `Email`, and `MobilePhone`.
 - **Dependency Injection**: Ensures loose coupling and easy testing.
 - **Fluent API Configurations**: Defines mappings and constraints for the database model.
@@ -69,11 +75,15 @@ The Contacts Management API is designed to perform CRUD operations on contact re
 2. Set up the database connection string in `appsettings.json`.
 3. Run database migrations using Entity Framework Core to create tables.
 4. Launch the API using Visual Studio or CLI.
-5. Also run the command dotnet restore.
+5. Also run the command `dotnet restore`.
 
 ### Usage
 - Use Swagger or tools like Postman to interact with the API.
 - Test endpoints to perform CRUD operations on contact data.
+  - **POST** `/contacts`: Add a new contact.
+  - **GET** `/contacts`: Get all contacts.
+  - **PUT** `/contacts/{id}`: Update an existing contact.
+  - **DELETE** `/contacts/{id}`: Delete a contact.
 
 ## Future Enhancements
 
