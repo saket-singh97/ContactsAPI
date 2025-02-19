@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\freshold\\advancecasestudy\\contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\freshold\\advancecasestudy\\contactsapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Models\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\freshold\\advancecasestudy\\contactsapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Models\\FluentModelValidation\\Validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\FluentModelValidation\\Validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\freshold\\advancecasestudy\\contactsapi\\models\\fluentmodelvalidation\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:models\\fluentmodelvalidation\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Pattern\\ContactMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pattern\\ContactMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|c:\\freshold\\advancecasestudy\\contactsapi\\pattern\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1907B8E7-5F53-47BD-AB7A-B42D250A50C4}|ContactsAPI.csproj|solutionrelative:pattern\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,12 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,9 +40,10 @@
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
               "ToolTip": "C:\\FreshOld\\AdvanceCaseStudy\\ContactsAPI\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:46:27.62Z"
+              "WhenOpened": "2024-09-18T06:46:27.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -71,7 +68,8 @@
               "RelativeToolTip": "Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:07:28.894Z"
+              "WhenOpened": "2024-09-18T06:07:28.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,7 +81,8 @@
               "RelativeToolTip": "Models\\FluentModelValidation\\Validator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:41:39.866Z"
+              "WhenOpened": "2024-09-17T11:41:39.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,7 +94,8 @@
               "RelativeToolTip": "Pattern\\ContactMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:27:04.511Z"
+              "WhenOpened": "2024-09-18T06:27:04.511Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -11,5 +11,5 @@ namespace ContactsAPI.Functionality;
         Contacts Find(string key);
         int Remove(string Id);
         int Update (Contacts item);
-        bool CheckValidityUserKey(string reqKey);
+        
     }

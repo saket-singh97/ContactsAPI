@@ -21,11 +21,6 @@ namespace ContactsAPI.Implementation;
             return this.contactsDbContext.SaveChanges();
         }
 
-        bool IContactsOperations.CheckValidityUserKey(string reqKey)
-        {
-            throw new NotImplementedException();
-        }
-
         Contacts IContactsOperations.Find(string key)
         {
             return this.contactsDbContext.contacts.FirstOrDefault(c => c.ID == Convert.ToInt32(key));

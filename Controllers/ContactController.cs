@@ -39,6 +39,19 @@ namespace ContactsAPI.Controllers;
         }
 
 
+        [HttpGet("GetContactsByID")]
+
+        public IActionResult GetContactById(int id)
+        {
+            var contact = this.contactsOperations.Find (id.ToString());
+            if (contact == null)
+        {
+            return NotFound("Contact not found.");
+        }
+
+            return Ok(contact);
+        }
+
 
 
 

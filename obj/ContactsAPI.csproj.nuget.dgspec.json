@@ -52,7 +52,7 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[11.10.0, )"
+              "version": "[11.11.0, )"
             },
             "FluentValidation.AspNetCore": {
               "target": "Package",
@@ -60,7 +60,7 @@
             },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[11.10.0, )"
+              "version": "[11.11.0, )"
             },
             "Microsoft.AspNet.WebApi": {
               "target": "Package",
@@ -124,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
